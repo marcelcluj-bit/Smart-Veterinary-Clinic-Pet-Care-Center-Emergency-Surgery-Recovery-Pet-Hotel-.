@@ -28,7 +28,7 @@ This repository provides an open-source modular management framework for modern 
 
 
 bash
-git clone https://github.com/your-username/smart-vet-clinic.git
+git clone https://marcelcluj-bit/smart-vet-clinic.git
 cd smart-vet-clinic
 python smart_vet_clinic.py
 
