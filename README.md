@@ -34,8 +34,6 @@ cd smart-veterinary-clinic
 python smart_vet_clinic.py
 
 
- https://github.com/marcelcluj-bit/smart_vet_clinic.py
-
 ## System Topology
 
 [ ICU Wearable / Cage IoT Sensors ]
