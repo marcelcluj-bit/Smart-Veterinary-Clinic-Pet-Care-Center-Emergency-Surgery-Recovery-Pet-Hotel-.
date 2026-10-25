@@ -28,10 +28,8 @@ This repository provides an open-source modular management framework for modern 
 
 
 bash
-git clone https://github.com/marcelcluj-bit/smart-vet-clinic.git
-
-git clone https://marcelcluj-bit/smart-vet-clinic.git
-cd smart-vet-clinic
+git clone https://github.com/marcelcluj-bit/Smart-Veterinary-Clinic-Pet-Care-Center-Emergency-Surgery-Recovery-Pet-Hotel-.git
+cd Smart-Veterinary-Clinic-Pet-Care-Center-Emergency-Surgery-Recovery-Pet-Hotel-
 python smart_vet_clinic.py
 
 ## System Topology
