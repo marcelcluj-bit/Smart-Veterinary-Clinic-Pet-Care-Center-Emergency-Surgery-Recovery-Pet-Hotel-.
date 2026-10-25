@@ -23,20 +23,16 @@ This repository provides an open-source modular management framework for modern 
 
 ### ## Quick Start
 
+## Quick Start
+
 ### Prerequisites
 * Python 3.8+
 
 ### Execution
 ```bash
 git clone [https://github.com/marcelcluj-bit/smart-veterinary-clinic.git](https://github.com/marcelcluj-bit/smart-veterinary-clinic.git)
-```
-
-
 cd smart-veterinary-clinic
 python smart_vet_clinic.py
-
-```
-
 
 ## System Topology
 
