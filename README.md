@@ -28,7 +28,7 @@ This repository provides an open-source modular management framework for modern 
 
 
 bash
-git clone https://github.com/marcelcluj-bit/smart-veterinary-clinic    git
+git clone https://github.com/marcelcluj-bit/smart-veterinary-clinic.py    git
 cd smart_vet_clinic.py
 
 ## System Topology
