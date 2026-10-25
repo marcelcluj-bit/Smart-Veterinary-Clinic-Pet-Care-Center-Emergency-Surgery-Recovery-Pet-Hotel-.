@@ -19,9 +19,6 @@ This repository provides an open-source modular management framework for modern 
    - Fractional tokenized ownership model allowing community investors to fund heavy diagnostic hardware.
    - Automated smart contract revenue sharing distributing monthly equipment lease dividends.
 
-## Quick Start
-
-### ## Quick Start
 
 ## Quick Start
 
@@ -29,15 +26,15 @@ This repository provides an open-source modular management framework for modern 
 * Python 3.8+
 
 ### Execution
-```bash
-git clone [https://github.com/marcelcluj-bit/smart-veterinary-clinic.git](https://github.com/marcelcluj-bit/smart-veterinary-clinic.git)
-
-```
 
 
-
+bash
+git clone https://github.com/marcelcluj-bit/smart-veterinary-clinic.git
 cd smart-veterinary-clinic
 python smart_vet_clinic.py
+
+
+
 
 ## System Topology
 
